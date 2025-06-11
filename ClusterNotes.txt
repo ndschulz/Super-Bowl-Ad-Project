@@ -1,0 +1,47 @@
+Cluster 1:
+
+This cluster consists of ads characterized by humor and celebrity endorsements.
+Engagement metrics for ads in this cluster show high view counts and likes on average, indicating strong audience engagement.
+Notable brands in this cluster include Bud Light, Budweiser, and Doritos, suggesting a focus on popular consumer brands.
+Mean Metrics:
+Mean view_count: 2,067,688
+Mean like_count: 4,847.58
+Mean dislike_count: 1,353.18
+Mean favorite_count: 0
+Mean comment_count: 139.9
+
+Cluster 2:
+
+This cluster includes ads with a mix of attributes, often featuring humor and celebrity endorsements.
+Engagement metrics for ads in this cluster indicate moderate view counts and likes on average.
+Notable brands in this cluster include Kia, Pepsi, and Coca-Cola, reflecting a diverse set of industry players.
+Mean Metrics:
+Mean view_count: 1,076,195
+Mean like_count: 4,272.85
+Mean dislike_count: 452.18
+Mean favorite_count: 0
+Mean comment_count: 348.3
+
+Cluster 3:
+
+This cluster consists of ads with a varied mix of themes, including patriotism, danger, and animals, but with fewer instances of humor or celebrity involvement.
+Engagement metrics for ads in this cluster appear to be more modest compared to the other clusters, with lower view counts and likes on average.
+Notable brands in this cluster include NFL, Budweiser, Kia, and Pepsi, indicating a mix of different industry players utilizing similar themes.
+Mean Metrics:
+Mean view_count: 553,795
+Mean like_count: 4,018.08
+Mean dislike_count: 183.62
+Mean favorite_count: 0
+Mean comment_count: 158.4
+
+Cluster 4:
+
+This cluster comprises ads with varied attributes, often including humor and featuring celebrities.
+Engagement metrics for ads in this cluster show lower view counts and likes on average compared to other clusters.
+Notable brands in this cluster include Bud Light, Hynudai, and Kia, indicating a mix of industry players with different advertising strategies.
+Mean Metrics:
+Mean view_count: 124,112
+Mean like_count: 471.6
+Mean dislike_count: 20.65
+Mean favorite_count: 0
+Mean comment_count: 35.91
